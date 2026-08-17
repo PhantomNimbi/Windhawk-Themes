@@ -4,19 +4,19 @@
 
 These themes require the following Windhawk mods:
 
-- [Windows 11 Start Menu Styler]
-- [Windows 11 Notification Center Styler]
-- [Windows 11 Taskbar Styler]
-- [Windows 11 File Explorer Styler]
+- [Windows 11 Start Menu Styler][Start_Menu_Styler]
+- [Windows 11 Notification Center Styler][Notification_Center_Styler]
+- [Windows 11 Taskbar Styler][Taskbar_Styler]
+- [Windows 11 File Explorer Styler][File_Explorer_Styler]
 
 Some may require additional mods such as the following:
 
-- [Translucent Windows]
-- [Taskbar Clock Customization]
-- [Taskbar Tray System Icon Tweaks]
-- [Taskbar Height and Icon Size]
-- [Taskbar Labels for Windows 11]
-- [Shell Flyout Positions]
+- [Translucent Windows][Translucent_Windows]
+- [Taskbar Clock Customization][Taskbar_Clock_Customization]
+- [Taskbar Tray System Icon Tweaks][Taskbar_Tray_System_Icon_Tweaks]
+- [Taskbar Height and Icon Size][Taskbar_Height_and_Icon_Size]
+- [Taskbar Labels for Windows 11][Taskbar_Labels]
+- [Shell Flyout Positions][Shell_Flyout_Positions]
 
 ---
 
@@ -49,13 +49,13 @@ Some may require additional mods such as the following:
 [CommandCenter_StartMenu]: /Themes/StartMenu/CommandCenter/README.md
 
 <!-- External Links -->
-[Windows 11 Start Menu Styler]: https://windhawk.net/mods/windows-11-start-menu-styler
-[Windows 11 Notification Center Styler]: https://windhawk.net/mods/windows-11-notification-center-styler
-[Windows 11 Taskbar Styler]: https://windhawk.net/mods/windows-11-taskbar-styler
-[Windows 11 File Explorer Styler]: https://windhawk.net/mods/windows-11-file-explorer-styler
-[Translucent Windows]: https://windhawk.net/mods/tanslucent-windows
-[Taskbar Clock Customization]: https://windhawk.net/mods/taskbar-clock-customization
-[Taskbar Tray System Icon Tweaks]: https://windhawk.net/mods/taskbar-tray-system-icon-tweaks
-[Taskbar Height and Icon Size]: https://windhawk.net/mods/taskbar-icon-size
-[Taskbar Labels for Windows 11]: https://windhawk.net/mods/taskbar-labels
-[Shell Flyout Positions]: https://windhawk.net/mods/shell-flyout-positions
+[Start_Menu_Styler]: https://windhawk.net/mods/windows-11-start-menu-styler
+[Notification_Center_Styler]: https://windhawk.net/mods/windows-11-notification-center-styler
+[Taskbar_Styler]: https://windhawk.net/mods/windows-11-taskbar-styler
+[File_Explorer_Styler]: https://windhawk.net/mods/windows-11-file-explorer-styler
+[Translucent_Windows]: https://windhawk.net/mods/tanslucent-windows
+[Taskbar_Clock_Customization]: https://windhawk.net/mods/taskbar-clock-customization
+[Taskbar_Tray_System_Icon_Tweaks]: https://windhawk.net/mods/taskbar-tray-system-icon-tweaks
+[Taskbar_Height_and_Icon_Size]: https://windhawk.net/mods/taskbar-icon-size
+[Taskbar_Labels]: https://windhawk.net/mods/taskbar-labels
+[Shell_Flyout_Positions]: https://windhawk.net/mods/shell-flyout-positions
