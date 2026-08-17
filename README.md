@@ -28,12 +28,10 @@ Some may require additional mods such as the following:
 ### Windows 11 Taskbar Styler Themes
 
 - [Command Center][CommandCenter_Taskbar]
-- [Fluid][Fluid_Taskbar]
 - [DWM Glass][DWMGlass_Taskbar]
 
 ### Windows 11 Notification Center Styler Themes
 
-- [Fluid][Fluid_NotificationCenter]
 - [DWM Glass][DWMGlass_NotificationCenter]
 
 ### Windows 11 File Explorer Styler Themes
@@ -45,10 +43,6 @@ Some may require additional mods such as the following:
 [DWMGlass_StartMenu]: /Themes/StartMenu/DWMGlass/README.md
 [DWMGlass_NotificationCenter]: /Themes/NotificationCenter/DWMGlass/README.md
 [DWMGlass_FileExplorer]: /Themes/FileExplorer/DWMGlass/README.md
-
-<!-- Fluid Themes -->
-[Fluid_Taskbar]: /Themes/Taskbar/Fluid/README.md
-[Fluid_NotificationCenter]: /Themes/NotificationCenter/Fluid/README.md
 
 <!-- Command Center Themes -->
 [CommandCenter_Taskbar]: /Themes/Taskbar/CommandCenter/README.md
