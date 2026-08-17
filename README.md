@@ -1,4 +1,4 @@
-# Windhawk Themes
+<h1 align="center">Windhawk Themes</h1>
 
 ## Requirements
 

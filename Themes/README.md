@@ -1,9 +1,9 @@
-# Windhawk Themes
+<h1 align="center">Windhawk Themes</h1>
 
-- [File Explorer][FileExplorer_Themes]
-- [Notification Center][NotificationCenter_Themes]
-- [Start Menu][StartMenu_Themes]
-- [Taskbar][Taskbar_Themes]
+- [File Explorer Themes][FileExplorer_Themes]
+- [Notification Center Themes][NotificationCenter_Themes]
+- [Start Menu Themes][StartMenu_Themes]
+- [Taskbar Themes][Taskbar_Themes]
 
 [FileExplorer_Themes]: /Themes/FileExplorer/
 [NotificationCenter_Themes]: /Themes/NotificationCenter/
