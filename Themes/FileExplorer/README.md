@@ -1,6 +1,4 @@
-# Windows 11 File Explorer Styler
-
-## Themes
+# Windows 11 File Explorer Styler Themes
 
 | Link | Screenshot
 | ---- | ----------

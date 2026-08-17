@@ -1,6 +1,4 @@
-# Windows 11 Taskbar Styler
-
-## Themes
+# Windows 11 Taskbar Styler Themes
 
 | Link | Screenshot
 | ---- | ----------

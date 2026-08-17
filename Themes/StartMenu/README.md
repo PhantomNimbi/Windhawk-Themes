@@ -1,7 +1,4 @@
-
-# Windows 11 Start Menu Styler
-
-## Themes
+# Windows 11 Start Menu Styler Themes
 
 | Link | Screenshot
 | ---- | ----------
