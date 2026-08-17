@@ -14,7 +14,7 @@
 ## Windows 11 Notification Center Styler Themes
 
 - [Fluid](/Themes/NotificationCenter/Fluid/README.md)
-- DWM Glass](/Themes/NotificationCenter/DWMGlass/README.md)
+- [DWM Glass](/Themes/NotificationCenter/DWMGlass/README.md)
 
 ## Windows 11 File Explorer Styler Themes
 
