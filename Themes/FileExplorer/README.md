@@ -2,4 +2,4 @@
 
 | Link | Screenshot |
 | :---: | :---: |
-| [DWM Glass](/Themes/FileExplorer/DWMGlass/README.md) | [![DWM Glass](/Themes/FileExplorer/DWMGlass/screenshot-small.png)](/Themes/FileExplorer/DWMGlass/screenshot.png) |
+| [DWMGlass](/Themes/FileExplorer/DWMGlass/README.md) | [![DWMGlass](/Themes/FileExplorer/DWMGlass/screenshot-small.png)](/Themes/FileExplorer/DWMGlass/screenshot.png) |

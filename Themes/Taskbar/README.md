@@ -2,5 +2,5 @@
 
 | Link | Screenshot |
 | :---: | :---: |
-| [Command Center](/Themes/Taskbar/CommandCenter/README.md) | [![Command Center](/Themes/Taskbar/CommandCenter/screenshot.png)](/Themes/Taskbar/CommandCenter/screenshot.png) |
-| [DWM Glass](/Themes/Taskbar/DWMGlass/README.md) | [![DWM Glass](/Themes/Taskbar/DWMGlass/screenshot.png)](/Themes/Taskbar/DWMGlass/screenshot.png) |
+| [CommandCenter](/Themes/Taskbar/CommandCenter/README.md) | [![CommandCenter](/Themes/Taskbar/CommandCenter/screenshot.png)](/Themes/Taskbar/CommandCenter/screenshot.png) |
+| [DWMGlass](/Themes/Taskbar/DWMGlass/README.md) | [![DWMGlass](/Themes/Taskbar/DWMGlass/screenshot.png)](/Themes/Taskbar/DWMGlass/screenshot.png) |

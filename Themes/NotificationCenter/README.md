@@ -2,4 +2,4 @@
 
 | Link | Screenshot |
 | :---: | :---: |
-| [DWM Glass](/Themes/NotificationCenter/DWMGlass/README.md) | [![DWM Glass](/Themes/NotificationCenter/DWMGlass/screenshot-small.png)](/Themes/NotificationCenter/DWMGlass/screenshot.png) |
+| [DWMGlass](/Themes/NotificationCenter/DWMGlass/README.md) | [![DWMGlass](/Themes/NotificationCenter/DWMGlass/screenshot-small.png)](/Themes/NotificationCenter/DWMGlass/screenshot.png) |

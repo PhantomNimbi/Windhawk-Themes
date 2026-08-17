@@ -22,21 +22,21 @@ Some may require additional mods such as the following:
 
 ### Windows 11 Start Menu Styler Themes
 
-- [Command Center][CommandCenter_StartMenu]
-- [DWM Glass][DWMGlass_StartMenu]
+- [CommandCenter][CommandCenter_StartMenu]
+- [DWMGlass][DWMGlass_StartMenu]
 
 ### Windows 11 Taskbar Styler Themes
 
-- [Command Center][CommandCenter_Taskbar]
-- [DWM Glass][DWMGlass_Taskbar]
+- [CommandCenter][CommandCenter_Taskbar]
+- [DWMGlass][DWMGlass_Taskbar]
 
 ### Windows 11 Notification Center Styler Themes
 
-- [DWM Glass][DWMGlass_NotificationCenter]
+- [DWMGlass][DWMGlass_NotificationCenter]
 
 ### Windows 11 File Explorer Styler Themes
 
-- [DWM Glass][DWMGlass_FileExplorer]
+- [DWMGlass][DWMGlass_FileExplorer]
 
 <!-- DWM Glass Themes-->
 [DWMGlass_Taskbar]: /Themes/Taskbar/DWMGlass/README.md
