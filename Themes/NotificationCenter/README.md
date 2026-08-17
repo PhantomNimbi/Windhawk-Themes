@@ -1,4 +1,4 @@
-# Windows 11 Notification Center Styler Themes
+<h1 align="center">Windows 11 Notification Center Styler Themes</h1>
 
 | Link | Screenshot |
 | :--- | :--- |
