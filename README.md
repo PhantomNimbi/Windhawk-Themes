@@ -18,6 +18,8 @@ Some may require additional mods such as the following:
 - [Taskbar Labels for Windows 11]
 - [Shell Flyout Positions]
 
+---
+
 ### Windows 11 Start Menu Styler Themes
 
 - [Command Center][CommandCenter_StartMenu]
